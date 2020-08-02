@@ -1,0 +1,7 @@
+D:\Dot net\DotnetConsoleApps\AbstractClassAssign\AbstractClassAssign\bin\Debug\AbstractClassAssign.exe.config
+D:\Dot net\DotnetConsoleApps\AbstractClassAssign\AbstractClassAssign\bin\Debug\AbstractClassAssign.exe
+D:\Dot net\DotnetConsoleApps\AbstractClassAssign\AbstractClassAssign\bin\Debug\AbstractClassAssign.pdb
+D:\Dot net\DotnetConsoleApps\AbstractClassAssign\AbstractClassAssign\obj\Debug\AbstractClassAssign.csprojAssemblyReference.cache
+D:\Dot net\DotnetConsoleApps\AbstractClassAssign\AbstractClassAssign\obj\Debug\AbstractClassAssign.csproj.CoreCompileInputs.cache
+D:\Dot net\DotnetConsoleApps\AbstractClassAssign\AbstractClassAssign\obj\Debug\AbstractClassAssign.exe
+D:\Dot net\DotnetConsoleApps\AbstractClassAssign\AbstractClassAssign\obj\Debug\AbstractClassAssign.pdb

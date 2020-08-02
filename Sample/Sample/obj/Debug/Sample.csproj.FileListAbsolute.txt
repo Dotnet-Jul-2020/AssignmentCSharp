@@ -1,0 +1,6 @@
+D:\Dot net\DotnetConsoleApps\Sample\Sample\bin\Debug\Sample.dll
+D:\Dot net\DotnetConsoleApps\Sample\Sample\bin\Debug\Sample.pdb
+D:\Dot net\DotnetConsoleApps\Sample\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+D:\Dot net\DotnetConsoleApps\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\Dot net\DotnetConsoleApps\Sample\Sample\obj\Debug\Sample.dll
+D:\Dot net\DotnetConsoleApps\Sample\Sample\obj\Debug\Sample.pdb
